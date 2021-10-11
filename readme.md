@@ -1,6 +1,6 @@
 # C++ Boilerplate
 [![Build Status](https://app.travis-ci.com/Abhishek-Nalawade/Valgrind-Excercise.svg?branch=master)](https://app.travis-ci.com/Abhishek-Nalawade/Valgrind-Excercise)
-[![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Abhishek-Nalawade/Valgrind-Excercise/badge.svg?branch=master)](https://coveralls.io/github/Abhishek-Nalawade/Valgrind-Excercise?branch=master)
 ---
 
 ## Overview
